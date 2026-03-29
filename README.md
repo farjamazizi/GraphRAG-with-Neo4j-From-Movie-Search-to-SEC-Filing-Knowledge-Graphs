@@ -168,3 +168,4 @@ bash load_l2_dump.sh
 
 Then restart the notebook kernel and rerun the notebook cells.
 # GraphRAG-with-Neo4j-From-Movie-Search-to-SEC-Filing-Knowledge-Graphs
+# GraphRAG-with-Neo4j-From-Movie-Search-to-SEC-Filing-Knowledge-Graphs
