@@ -217,6 +217,7 @@ __marimo__/
 
 # Project notes
 mynote.txt
+.codex
 
 # Local Neo4j runtime files
 neo4j/data/
