@@ -1,0 +1,9 @@
+python-dotenv
+neo4j
+openai
+streamlit
+langchain-community
+langchain-openai
+langchain-text-splitters
+langchain-classic
+jupyter
