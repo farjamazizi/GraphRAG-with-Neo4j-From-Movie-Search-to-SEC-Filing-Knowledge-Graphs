@@ -1,4 +1,4 @@
-# Demo of Graphs for RAG
+# Demo of Graphs for RAG (This repo is not completed )
 
 This project explores how Neo4j can support retrieval-augmented generation workflows, starting with a movie graph and then moving into SEC filing data and graph-based retrieval patterns.
 
